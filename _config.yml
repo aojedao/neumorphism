@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Alejandro Ojeda
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -16,12 +16,11 @@ username: Neumorphism
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Jekyll Theme
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: aojedao@unal.edu.co
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
+github_username: aojedao
 dev_username: exampleUser
 linkedin_username: exampleUser
 twitter_username: exampleUser
