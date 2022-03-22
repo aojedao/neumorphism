@@ -17,31 +17,31 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Universidad Nacional de Colombia
+  title-url: https://ingenieria.bogota.unal.edu.co/en/ 
+  date: Feb 2016 - Present
+  subtitle: Mechatronics Engineering Student
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Mechanical Design
+    - tag: Electronic Design
+    - tag: Control Engineering
+    - tag: Robotics
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: CEIMTUN-RAS
+  title-url: https://edu.ieee.org/co-rasun/
+  date: Jan 2019 - Dec 2019
+  subtitle: General Coordinator
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Competitive Robotics
+    - tag: Project Manager
+    - tag: Speaker at I Smart Manufacturing Seminar in Unal.
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: IEEE AESS Student Chapter
+  title-url: https://www.facebook.com/pages/category/Community/AESS-UN-115640060128250/
+  date: 2020 - 2021
+  subtitle: Chapter Chair
   timeline-side: left
 
 - title: Facebook
