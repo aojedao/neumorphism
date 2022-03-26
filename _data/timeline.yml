@@ -26,7 +26,7 @@
     - tag: Electronic Design
     - tag: Control Engineering
     - tag: Robotics
-  timeline-side: right
+  timeline-side: left
 
 - title: CEIMTUN-RAS
   title-url: https://edu.ieee.org/co-rasun/
@@ -44,14 +44,13 @@
   subtitle: Chapter Chair
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Student Assistant at Universidad Nacional de Colombia
+  title-url: https://ingenieria.bogota.unal.edu.co/en/ 
+  date: Oct 2020 - Mar 2021
+  subtitle: Additive Manufacturing characterization in the Colombian Industry
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Logistics
+    - tag: Technology gao analyzing
   timeline-side: right
 
 - title: Super University
