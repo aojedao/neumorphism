@@ -30,7 +30,7 @@
 
 - title: CEIMTUN-RAS
   title-url: https://edu.ieee.org/co-rasun/
-  date: Jan 2019 - Dec 2019
+  date: 2019 - 2020
   subtitle: General Coordinator
   tags:
     - tag: Competitive Robotics
@@ -42,6 +42,29 @@
   title-url: https://www.facebook.com/pages/category/Community/AESS-UN-115640060128250/
   date: 2020 - 2021
   subtitle: Chapter Chair
+  tags:
+    - tag: Rocketry fundamentals
+    - tag: Autonomous Rover Design
+    - tag: Awarded 2020 Best Student Chapter CHair
+  timeline-side: left
+
+- title: IEEE UN Student Branch
+  title-url: https://ingenieria.unal.edu.co/rama-ieee/index.php
+  date: 2020 - 2021
+  subtitle: Student Branch Chair
+  tags:
+    - tag: Faculty"s First Engineering Week"
+    - tag: Awarded IEEE R9 Success Case Second Place
+    - tag: Awarded 2020 Second Best Student Branch
+  timeline-side: right
+  
+  - title: IEEE TEMS Student Chapter
+  title-url: https://www.facebook.com/pages/category/Community/AESS-UN-115640060128250/
+  date: June 2020 - December 2020
+  subtitle: Vice Chair
+  tags:
+    - tag: Pitch Practice Session
+    - tag: Organized Feria Lationamericana Estudiantil de Bioemprendimiento (FELB) with IEEE EMB UN Student CHapter
   timeline-side: left
 
 - title: Student Assistant at Universidad Nacional de Colombia
@@ -49,12 +72,17 @@
   date: Oct 2020 - Mar 2021
   subtitle: Additive Manufacturing characterization in the Colombian Industry
   tags:
-    - tag: Logistics
-    - tag: Technology gao analyzing
+    - tag: Additive manufacturing technologies classification
+    - tag: Academy - Industry networking
+    - tag: Technology gap analyzing
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Intern at Mechatronics Engineering Lab at UNAL
+  title-url: https://ingenieria.bogota.unal.edu.co/es/extension/laboratorios/labs-partamentos/laboratorios-ingenieria-mecanica-y-mecatronica.html#mecatronica
+  date: August 2021 - March 2022
+  subtitle: Assistant in Mobile Robotics Fundamentals
+  tags:
+    - tag: Ultrasensor distance estimation
+    - tag: RPLIDAR use guides for ROS and  MATLAB
+    - tag: SLAM and Autonomous Navigation on a Kobuki Robot
   timeline-side: left
