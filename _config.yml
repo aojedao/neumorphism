@@ -107,6 +107,8 @@ projects:
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
     - webpageV1
+    - Lab3-Robotica
+    - Lab2-Robotica
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
