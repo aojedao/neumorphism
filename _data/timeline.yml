@@ -86,3 +86,13 @@
     - tag: RPLIDAR use guides for ROS and  MATLAB
     - tag: SLAM and Autonomous Navigation on a Kobuki Robot
   timeline-side: left
+  
+- title: Student Researcher at DIMA UNAL
+  title-url: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000724
+  date: June 2022 - Present
+  subtitle: Student Researcher in Laboratorio Fabrica Experimental (LabFabEx) at Grupo de Investigación en nuevas tecnologías en diseño manufactura y automatización (DIMA)
+  tags:
+    - tag: Networking Arquitecture Analysis in Plataforma Robotizada Integrada Automatizada (PRIA)
+    - tag: MicroSDV mobile robot integration in PRIA
+    - tag: Dockerized image of PRIA modules for Raspberry Pi Servers
+  timeline-side: right
