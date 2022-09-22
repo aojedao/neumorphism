@@ -22,4 +22,9 @@
 
 - name: ROS2
   weight: 2
-
+  
+- name: Single Board Computers (BeagleBone, Raspbeery Pi)
+  weight: 3
+  
+- name: OpenCV
+  weight: 3
