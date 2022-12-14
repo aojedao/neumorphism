@@ -32,9 +32,16 @@
     - tag: Mechanical Design
     - tag: Electronic Design
 
-- name: Microfactory
-  descr: "You can also set a project without demo link and no tags"
-  demo: https://example.com/
+- name: Robotized Microfactory for PWB
+  descr: This project follows the design of a robotized microfactory to produce CNC milled Printed Wiring Boards by trnasporting them with a microSDV robot, connected using a MES called PRIA on ROS systems.
+  demo: https://aojedao.github.io/Microfactory/home.html
   tags:
     - tag: Python
-    - tag: Django
+    - tag: ROS
+    - tag: Firebase
+    - tag: Differential Robot
+    - tag: CNC
+    - tag: Arduino
+    - tag: Raspberry Pi
+    
+    
