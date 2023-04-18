@@ -19,7 +19,7 @@
 
 - title: Universidad Nacional de Colombia
   title-url: https://ingenieria.bogota.unal.edu.co/en/ 
-  date: Feb 2016 - Present
+  date: Feb 2016 - April 2023
   subtitle: Mechatronics Engineering Student
   tags:
     - tag: Mechanical Design
@@ -96,3 +96,11 @@
     - tag: MicroSDV mobile robot integration in PRIA
     - tag: Dockerized image of PRIA modules for Raspberry Pi Servers
   timeline-side: right
+  
+  - title: Researcher Contractor at DIMA UNAL
+  title-url: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000724
+  date: April 2023 - Present
+  subtitle: Researcher COntractor in Experimental Fabrication Laboratory (ExFabLab) at Grupo de Investigación en nuevas tecnologías en diseño manufactura y automatización (DIMA)
+  tags:
+    - tag: Navigation Algorithm and Speed Control Tuning
+  timeline-side: left
