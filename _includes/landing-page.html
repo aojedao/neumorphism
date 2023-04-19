@@ -39,6 +39,21 @@
           <span class="label">GitHub</span>
         </a>
       {% endif %}
+                             
+      {% if site.gsc_username != null %}
+        <a class="social-link GSc" aria-label="Google Scholar" target="_blank" rel="noreferrer"
+          href="{{site.gsc_username}}" style="line-height:1rem;">
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+            </svg>
+              <div class="social">
+                <svg class="social-svg" viewBox="0 0 48 48">
+		              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" href="{{ "/assets/img/google_scholar.svg#g7" | prepend: site.baseurl }}"></use>
+                </svg>
+            </div>
+	        <span class="label" >Google Scholar</span>
+        </a>
+      {% endif %}
 
       {% if site.codepen_username != null %}
         <a class="social-link" aria-label="My Codepen" target="_blank" rel="noreferrer"
