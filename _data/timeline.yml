@@ -61,10 +61,10 @@
 - title: IEEE TEMS Student Chapter
   title-url: https://www.facebook.com/pages/category/Community/AESS-UN-115640060128250/
   date: June 2020 - December 2020
-  subtitle: Vice Chair
+  subtitle: Vice chair
   tags:
     - tag: Pitch Practice Session
-    - tag: Organized Feria Lationamericana Estudiantil de Bioemprendimiento (FELB) with IEEE EMB UN Student CHapter
+    - tag: Organized Feria Latinoamericana Estudiantil de Bioemprendimiento (FELB) with IEEE EMB UN Student Chapter
   timeline-side: left
 
 - title: Student Assistant at Universidad Nacional de Colombia
@@ -95,12 +95,14 @@
     - tag: Networking Arquitecture Analysis in Plataforma Robotizada Integrada Automatizada (PRIA)
     - tag: MicroSDV mobile robot integration in PRIA
     - tag: Dockerized image of PRIA modules for Raspberry Pi Servers
+    - tag: Speaker at Congreso Internacional de Mecatrónica, Control e Inteligencia Artificial at UNAM Cautitlán, México.
+    - tag: Speaker at Transportáte al futuro con robótica disruptiva seminar at UNAL, Colombia.
   timeline-side: right
   
 - title: Researcher Contractor at DIMA UNAL
   title-url: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000724
   date: April 2023 - Present
-  subtitle: Researcher COntractor in Experimental Fabrication Laboratory (ExFabLab) at Grupo de Investigación en nuevas tecnologías en diseño manufactura y automatización (DIMA)
+  subtitle: Researcher Contractor in Experimental Fabrication Laboratory (ExFabLab) at Grupo de Investigación en nuevas tecnologías en diseño manufactura y automatización (DIMA)
   tags:
     - tag: Navigation Algorithm and Speed Control Tuning
   timeline-side: left
