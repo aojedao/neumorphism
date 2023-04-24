@@ -116,6 +116,13 @@ projects:
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
   id: "G-J7NNTEPQ3F"
+  
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-J7NNTEPQ3F"
+    anonymize_ip         : # true, false (default)
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
