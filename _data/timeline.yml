@@ -105,4 +105,15 @@
   subtitle: Researcher Contractor in Experimental Fabrication Laboratory (ExFabLab) at Grupo de Investigación en nuevas tecnologías en diseño manufactura y automatización (DIMA)
   tags:
     - tag: Navigation Algorithm and Speed Control Tuning
+    - tag: Stratasys Additive Manufacturing Machine Setup
+    - tag: Vibrational analysis of CNC Gantry Machine
+    - tag: AMCL navigation and HectoSLAM mapping implemented in custom differential robot
   timeline-side: left
+  
+- title: Junior IoT Engineer at The Coffee Hub
+  title-url: https://www.linkedin.com/company/the-coffee-hub/mycompany/
+  date: June 2023 - Present
+  subtitle: Junior IoT Engineer and Software developer at The Coffee Hub, a part of the Green Hub companies.
+  tags:
+    - tag: Process Oriented Analysis (POA) of the wet benefit production stage.
+  timeline-side: right
