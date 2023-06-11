@@ -9,6 +9,9 @@ description: Alejandro's description website powered by Jekyll
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/neumorphism"
 
+#To customize particles use this https://vincentgarreau.com/particles.js/#default and https://github.com/VincentGarreau/particles.js/
+
+
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: Alejandro Ojeda Olarte
