@@ -15,7 +15,7 @@
   weight: 3
 
 - name: VS Code
-  weight: 2
+  weight: 4
 
 - name: ROS
   weight: 4
@@ -26,9 +26,17 @@
 - name: Home Automation
   weight: 2
 
-  
 - name: SBC (BeagleBone, Raspberry Pi)
   weight: 3
   
 - name: OpenCV
+  weight: 3
+
+- name: Gazebo
+  weight: 3
+
+- name: NodeRED
+  weight: 2
+
+- name: Microcontrollers (ESP, Atmel, Microchip)
   weight: 3
