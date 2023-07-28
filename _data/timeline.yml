@@ -95,8 +95,8 @@
     - tag: Networking Arquitecture Analysis in Plataforma Robotizada Integrada Automatizada (PRIA)
     - tag: MicroSDV mobile robot integration in PRIA
     - tag: Dockerized image of PRIA modules for Raspberry Pi Servers
-    - tag: Speaker at Congreso Internacional de Mecatrónica, Control e Inteligencia Artificial at UNAM Cautitlán, México.
-    - tag: Speaker at Transportáte al futuro con robótica disruptiva seminar at UNAL, Colombia.
+    - tag: Speaker at Congreso Internacional de Mecatrónica, Control e Inteligencia Artificial at UNAM Cautitlán, México
+    - tag: Speaker at Transportáte al futuro con robótica disruptiva seminar at UNAL, Colombia
   timeline-side: right
   
 - title: Researcher Contractor at DIMA UNAL
@@ -104,10 +104,11 @@
   date: April 2023 - Present
   subtitle: Researcher Contractor in Experimental Fabrication Laboratory (ExFabLab) at Grupo de Investigación en nuevas tecnologías en diseño manufactura y automatización (DIMA)
   tags:
-    - tag: Navigation Algorithm and Speed Control Tuning
+    - tag: Navigation Algorithm and Speed Control Tuning of Hykabaï Robot
     - tag: Stratasys Additive Manufacturing Machine Setup
     - tag: Vibrational analysis of CNC Gantry Machine
-    - tag: AMCL navigation and HectoSLAM mapping implemented in custom differential robot
+    - tag: AMCL navigation and HectorSLAM mapping implemented in custom differential robot
+    - tag: Speaker at Congreso Internacional de Ingenieria Mecánica, Mecatrónica y Automatización (CIMM) 2023 at Cartagena, Colombia
   timeline-side: left
   
 - title: Junior IoT Engineer at The Coffee Hub
@@ -116,4 +117,5 @@
   subtitle: Junior IoT Engineer and Software developer at The Coffee Hub, a part of the Green Hub companies.
   tags:
     - tag: Process Oriented Analysis (POA) of the wet benefit production stage.
+    - tag: Multiple Regression analyisis of the production variables towards SCA.
   timeline-side: right
