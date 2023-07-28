@@ -22,8 +22,12 @@
 
 - name: ROS2
   weight: 2
+
+- name: Home Automation
+  weight: 2
+
   
-- name: Single Board Computers (BeagleBone, Raspbeery Pi)
+- name: SBC (BeagleBone, Raspberry Pi)
   weight: 3
   
 - name: OpenCV
