@@ -101,7 +101,7 @@
   
 - title: Researcher Contractor at DIMA UNAL
   title-url: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000724
-  date: April 2023 - Present
+  date: April 2023 - October 2024
   subtitle: Researcher Contractor in Experimental Fabrication Laboratory (ExFabLab) at Grupo de Investigación en nuevas tecnologías en diseño manufactura y automatización (DIMA)
   tags:
     - tag: Navigation Algorithm and Speed Control Tuning of Hykabaï Robot
@@ -114,9 +114,27 @@
   
 - title: Junior IoT Engineer at The Coffee Hub
   title-url: https://www.linkedin.com/company/the-coffee-hub/mycompany/
-  date: June 2023 - Present
+  date: June 2023 - August 2024
   subtitle: Junior IoT Engineer and Software developer at The Coffee Hub, a part of the Green Hub companies.
   tags:
     - tag: Process Oriented Analysis (POA) of the wet benefit production stage.
     - tag: Multiple Regression analyisis of the production variables towards SCA.
   timeline-side: right
+
+- title: New York University (NYU)
+  title-url: https://engineering.nyu.edu/academics/programs/mechatronics-and-robotics-ms 
+  date: August 2024 - Present
+  subtitle: Mechatronics and Robotics MS
+  tags:
+    - tag: Mechanical Design
+    - tag: Electronic Design
+    - tag: Mechatronics
+    - tag: Robotics
+  timeline-side: left
+  
+- title: Graduate Student Assistant at New York University
+  title-url: https://engineering.nyu.edu/admissions/graduate 
+  date: Seotember 2024 - Present
+  subtitle: Graduate Student Employment and Training (GSET) at Graduate Admissions
+  timeline-side: right
+  
