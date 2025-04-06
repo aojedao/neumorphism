@@ -17,88 +17,23 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Universidad Nacional de Colombia
-  title-url: https://ingenieria.bogota.unal.edu.co/en/ 
-  date: Feb 2016 - April 2023
-  subtitle: Mechatronics Engineer
+- title: Graduate Student Assistant at New York University
+  title-url: https://engineering.nyu.edu/admissions/graduate
+  date: September 2024 - Present
+  subtitle: Graduate Student Employment and Training (GSET) at Graduate Admissions
+  timeline-side: right
+
+- title: New York University (NYU)
+  title-url: https://engineering.nyu.edu/academics/programs/mechatronics-and-robotics-ms
+  date: August 2024 - Present
+  subtitle: Mechatronics and Robotics MS
   tags:
     - tag: Mechanical Design
     - tag: Electronic Design
-    - tag: Control Engineering
+    - tag: Mechatronics
     - tag: Robotics
   timeline-side: left
 
-- title: CEIMTUN-RAS
-  title-url: https://edu.ieee.org/co-rasun/
-  date: 2019 - 2020
-  subtitle: General Coordinator
-  tags:
-    - tag: Competitive Robotics
-    - tag: Project Manager
-    - tag: Speaker at I Smart Manufacturing Seminar in Unal.
-  timeline-side: right
-
-- title: IEEE AESS Student Chapter
-  title-url: https://www.facebook.com/pages/category/Community/AESS-UN-115640060128250/
-  date: 2020 - 2021
-  subtitle: Chapter Chair
-  tags:
-    - tag: Rocketry fundamentals
-    - tag: Autonomous Rover Design
-    - tag: Awarded 2020 Best Student Chapter CHair
-  timeline-side: left
-
-- title: IEEE UN Student Branch
-  title-url: https://ingenieria.unal.edu.co/rama-ieee/index.php
-  date: 2020 - 2021
-  subtitle: Student Branch Chair
-  tags:
-    - tag: Facultys First Engineering Week
-    - tag: Awarded IEEE R9 Success Case Second Place
-    - tag: Awarded 2020 Second Best Student Branch
-  timeline-side: right
-  
-- title: IEEE TEMS Student Chapter
-  title-url: https://www.facebook.com/pages/category/Community/AESS-UN-115640060128250/
-  date: June 2020 - December 2020
-  subtitle: Vice chair
-  tags:
-    - tag: Pitch Practice Session
-    - tag: Organized Feria Latinoamericana Estudiantil de Bioemprendimiento (FELB) with IEEE EMB UN Student Chapter
-  timeline-side: left
-
-- title: Student Assistant at Universidad Nacional de Colombia
-  title-url: https://ingenieria.bogota.unal.edu.co/en/ 
-  date: Oct 2020 - Mar 2021
-  subtitle: Additive Manufacturing characterization in the Colombian Industry
-  tags:
-    - tag: Additive manufacturing technologies classification
-    - tag: Academy - Industry networking
-    - tag: Technology gap analyzing
-  timeline-side: right
-
-- title: Intern at Mechatronics Engineering Lab at UNAL
-  title-url: https://ingenieria.bogota.unal.edu.co/es/extension/laboratorios/labs-partamentos/laboratorios-ingenieria-mecanica-y-mecatronica.html#mecatronica
-  date: August 2021 - March 2022
-  subtitle: Assistant in Mobile Robotics Fundamentals
-  tags:
-    - tag: Ultrasensor distance estimation
-    - tag: RPLIDAR use guides for ROS and  MATLAB
-    - tag: SLAM and Autonomous Navigation on a Kobuki Robot
-  timeline-side: left
-  
-- title: Student Researcher at DIMA UNAL
-  title-url: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000724
-  date: June 2022 - March 2023
-  subtitle: Student Researcher in Laboratorio Fabrica Experimental (LabFabEx) at Grupo de Investigación en nuevas tecnologías en diseño manufactura y automatización (DIMA)
-  tags:
-    - tag: Networking Arquitecture Analysis in Plataforma Robotizada Integrada Automatizada (PRIA)
-    - tag: MicroSDV mobile robot integration in PRIA
-    - tag: Dockerized image of PRIA modules for Raspberry Pi Servers
-    - tag: Speaker at Congreso Internacional de Mecatrónica, Control e Inteligencia Artificial at UNAM Cautitlán, México
-    - tag: Speaker at Transportáte al futuro con robótica disruptiva seminar at UNAL, Colombia
-  timeline-side: right
-  
 - title: Researcher Contractor at DIMA UNAL
   title-url: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000724
   date: April 2023 - October 2024
@@ -111,7 +46,7 @@
     - tag: Speaker at Congreso Internacional de Ingenieria Mecánica, Mecatrónica y Automatización (CIMM) 2023 at Cartagena, Colombia
     - tag: Recieved IEEE EDS R9 Summer School scolarship at Puebla, México
   timeline-side: left
-  
+
 - title: Junior IoT Engineer at The Coffee Hub
   title-url: https://www.linkedin.com/company/the-coffee-hub/mycompany/
   date: June 2023 - August 2024
@@ -121,20 +56,84 @@
     - tag: Multiple Regression analyisis of the production variables towards SCA.
   timeline-side: right
 
-- title: New York University (NYU)
-  title-url: https://engineering.nyu.edu/academics/programs/mechatronics-and-robotics-ms 
-  date: August 2024 - Present
-  subtitle: Mechatronics and Robotics MS
+- title: Student Researcher at DIMA UNAL
+  title-url: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000724
+  date: June 2022 - March 2023
+  subtitle: Student Researcher in Laboratorio Fabrica Experimental (LabFabEx) at Grupo de Investigación en nuevas tecnologías en diseño manufactura y automatización (DIMA)
+  tags:
+    - tag: Networking Arquitecture Analysis in Plataforma Robotizada Integrada Automatizada (PRIA)
+    - tag: MicroSDV mobile robot integration in PRIA
+    - tag: Dockerized image of PRIA modules for Raspberry Pi Servers
+    - tag: Speaker at Congreso Internacional de Mecatrónica, Control e Inteligencia Artificial at UNAM Cautitlán, México
+    - tag: Speaker at Transportáte al futuro con robótica disruptiva seminar at UNAL, Colombia
+  timeline-side: right
+
+- title: Intern at Mechatronics Engineering Lab at UNAL
+  title-url: https://ingenieria.bogota.unal.edu.co/es/extension/laboratorios/labs-partamentos/laboratorios-ingenieria-mecanica-y-mecatronica.html#mecatronica
+  date: August 2021 - March 2022
+  subtitle: Assistant in Mobile Robotics Fundamentals
+  tags:
+    - tag: Ultrasensor distance estimation
+    - tag: RPLIDAR use guides for ROS and MATLAB
+    - tag: SLAM and Autonomous Navigation on a Kobuki Robot
+  timeline-side: left
+
+- title: Student Assistant at Universidad Nacional de Colombia
+  title-url: https://ingenieria.bogota.unal.edu.co/en/
+  date: Oct 2020 - Mar 2021
+  subtitle: Additive Manufacturing characterization in the Colombian Industry
+  tags:
+    - tag: Additive manufacturing technologies classification
+    - tag: Academy - Industry networking
+    - tag: Technology gap analyzing
+  timeline-side: right
+
+- title: IEEE UN Student Branch
+  title-url: https://ingenieria.unal.edu.co/rama-ieee/index.php
+  date: 2020 - 2021
+  subtitle: Student Branch Chair
+  tags:
+    - tag: Facultys First Engineering Week
+    - tag: Awarded IEEE R9 Success Case Second Place
+    - tag: Awarded 2020 Second Best Student Branch
+  timeline-side: right
+
+- title: IEEE AESS Student Chapter
+  title-url: https://www.facebook.com/pages/category/Community/AESS-UN-115640060128250/
+  date: 2020 - 2021
+  subtitle: Chapter Chair
+  tags:
+    - tag: Rocketry fundamentals
+    - tag: Autonomous Rover Design
+    - tag: Awarded 2020 Best Student Chapter CHair
+  timeline-side: left
+
+- title: IEEE TEMS Student Chapter
+  title-url: https://www.facebook.com/pages/category/Community/AESS-UN-115640060128250/
+  date: June 2020 - December 2020
+  subtitle: Vice chair
+  tags:
+    - tag: Pitch Practice Session
+    - tag: Organized Feria Latinoamericana Estudiantil de Bioemprendimiento (FELB) with IEEE EMB UN Student Chapter
+  timeline-side: left
+
+- title: CEIMTUN-RAS
+  title-url: https://edu.ieee.org/co-rasun/
+  date: 2019 - 2020
+  subtitle: General Coordinator
+  tags:
+    - tag: Competitive Robotics
+    - tag: Project Manager
+    - tag: Speaker at I Smart Manufacturing Seminar in Unal.
+  timeline-side: right
+
+- title: Universidad Nacional de Colombia
+  title-url: https://ingenieria.bogota.unal.edu.co/en/
+  date: Feb 2016 - April 2023
+  subtitle: Mechatronics Engineer
   tags:
     - tag: Mechanical Design
     - tag: Electronic Design
-    - tag: Mechatronics
+    - tag: Control Engineering
     - tag: Robotics
   timeline-side: left
-  
-- title: Graduate Student Assistant at New York University
-  title-url: https://engineering.nyu.edu/admissions/graduate 
-  date: September 2024 - Present
-  subtitle: Graduate Student Employment and Training (GSET) at Graduate Admissions
-  timeline-side: right
-  
