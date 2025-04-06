@@ -22,6 +22,9 @@
 
 - name: Assembly
   weight: 3  
+  
+- name: C
+  weight: 3  
 
 - name: VHDL
   weight: 1  
