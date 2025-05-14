@@ -19,7 +19,7 @@ username: Alejandro Ojeda Olarte
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Mechatronics Engineer
 # email: Your E-Mail address for the email button.
-email: aojedao@unal.edu.co
+email: ao2709@nyu.edu
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -91,7 +91,7 @@ contact_description: To contact me use the following links, I'm happy to help.
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: aojedao/neumorphism
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
