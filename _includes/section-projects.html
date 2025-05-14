@@ -21,10 +21,10 @@
         {% endif %}
       </div>
     {% endfor %}
-    {% include image-gallery.html folder="/assets/pictures" %}
+    
   </div>
 {% endif %}
-
+{% include image-gallery.html folder="/assets/pictures" %}
 {% if site.show_os_projects %}
   <h1 class="title">{{site.os_projects_title}}</h1>
   {% if site.projects.sort_by == 'stars' %}
