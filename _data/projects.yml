@@ -15,12 +15,13 @@
 
 - name: XWings FPV
   descr: "Founded the University Drone Racing Team, we compete with FPV systems and build and modidfy them according to our needs. The team currently competes in the International University Dron Racing Organization (IUDRO) and the Colombian FPV League, where I won first place in the 2021 Simulated Racing Cateogry"
-  demo: https://www.instagram.com/xwingsfpv/?hl=en
+  demo: https://xwings-fpv.github.io/webpage/
   tags:
     - tag: Drone
     - tag: FPV
     - tag: Quadcopter
     - tag: Racing
+    - tag: UAV
 
 - name: Elder Care Assistant Robot - Ebarisbot
   descr: "Designed a transport robot for elder users. It is operated trough a remote control and has the capacity to transport up to an 18 kg payload."
@@ -43,5 +44,16 @@
     - tag: CNC
     - tag: Arduino
     - tag: Raspberry Pi
+- name: Autonomous Container Handling systems
+  descr: "This project is a proof of concept of an autonomous container handling system using ROS Jazzy, ArUCo markers and Gazebo. The system is designed to handle containers in a port environment, implementing a decentralized robot swarm library such as ChoiRbot, and two custom designed mobile platforms using Arduino BLE Sense and Propeller."
+  demo: https://github.com/aojedao/Swarm6333/tree/main
+  tags:
+    - tag: C
+    - tag: ROS Jazzy
+    - tag: Gazebo
+    - tag: BLE
+    - tag: Raspberry Pi
+    - tag: Swarm Robotics
+    - tag: ArUCo markers
     
     
