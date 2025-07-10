@@ -9,7 +9,7 @@
   weight: 4
 
 - name: Autodesk Fusion 360
-  weight: 4
+  weight: 5
 
 - name: TinkerCAD
   weight: 3
@@ -17,13 +17,13 @@
 - name: NX
   weight: 3
 
-- name: FreeCAD
+- name: OnShape
   weight: 1
 
 - name: Ansys 
   weight: 2
 
-- name: CURA
+- name: CURA/OrcaSlicer
   weight: 4
 
 - name: Universal G-Code Sender

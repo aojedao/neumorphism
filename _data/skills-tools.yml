@@ -11,17 +11,17 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: Swarm Robotics
   weight: 3
 
 - name: VS Code
   weight: 4
 
-- name: ROS
-  weight: 4
+- name: PX4
+  weight: 3
 
 - name: ROS2
-  weight: 2
+  weight: 4
 
 - name: Home Automation
   weight: 3
